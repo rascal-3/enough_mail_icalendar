@@ -16,7 +16,7 @@ dependencies:
   enough_mail:
     git:
       url: https://github.com/rascal-3/enough_mail.git
-      ref: main
+      ref: HEAD
 
 dependency_overrides:
   # enough_mail:
