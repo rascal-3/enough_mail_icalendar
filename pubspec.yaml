@@ -26,6 +26,7 @@ dependency_overrides:
   enough_icalendar:
     git:
       url: https://github.com/Enough-Software/enough_icalendar.git
+      ref: HEAD
     #path: ../enough_icalendar
 
 dev_dependencies:
